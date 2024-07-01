@@ -17,8 +17,8 @@ public class Main {
         System.out.println(bike.wheels);
         System.out.println(bike.pedals);
 
-        /*car.Ride();
-          bike.Ride();*/
+        /*car.ride();
+          bike.ride();*/
 
     }
 

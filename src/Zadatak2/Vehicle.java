@@ -6,7 +6,7 @@ public class Vehicle {
     String model;
 
     /*we can also have inherited methods
-    public void Ride(){
+    public void ride(){
         System.out.println("The vehicle is moving");
     }*/
 

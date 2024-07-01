@@ -14,7 +14,7 @@ public class Book {
         this.library=library;
     }
 
-    public java.lang.String toString() {
+    public String toString() {
         return title+'\n'+author+'\n'+pubYear+'\n'+library;
     }
 }

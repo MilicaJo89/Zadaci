@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class FileReaderClass extends Main {
-    public void ReadTheFile() {
+    public void readTheFile() {
         try {
             FileReader reader = new FileReader("src/Zadatak8/hellodarling.txt");
             int letter = reader.read();
